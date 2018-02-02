@@ -8,8 +8,8 @@ Engine as it's primary game development engine.
 ### Team Info
 #### Spring 2018
 * Team Name: GGDC-Mario
-* Repository Location: https://github.com/soft-eng-practicum/tech-challenged
-* Communication: Software Development II Discord (#tech_challenged channel)
+* Repository Location: https://github.com/GrizzlyGameDev/Mario
+* Communication: Discord | Groupme
 1. **Hieu Dinh** - Project Lead
 2. **Derek Huynh** - Scripter
 3. **Jelani Gosier** - Level Designer
