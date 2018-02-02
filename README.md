@@ -1,7 +1,7 @@
 # 2D Mario Unity Project
 
 ### Description
-* This project is to design an exact replica of "Super Mario Bros". The goal is for new memeber to work on this project while being mentor
+* This project is to design an exact replica of "Super Mario Bros". The goal is for new member to work on this project while being mentor
 as to foster their growth to the point that they can be work independently. This project was started in Spring 2018 and is using the Unity
 Engine as it's primary game development engine.
 
